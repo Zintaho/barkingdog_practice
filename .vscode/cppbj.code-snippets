@@ -1,0 +1,18 @@
+{
+    "CPP Starter" : {
+        "scope" : "cpp",
+        "prefix" : "cppbj",
+        "body" : [
+            "#include <iostream>",
+            "",
+            "int main(int argc, char const *argv[])",
+            "{",
+            "    std::ios::sync_with_stdio(false);",
+            "    std::cin.tie(nullptr);",
+            "    /* code */",
+            "    return 0;",
+            "}",
+        ],
+        "description": "CPP starter code snippet for baekjoon (fs)"
+    }
+}
